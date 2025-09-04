@@ -22,6 +22,8 @@ body {
 }
 .weather-app-temperature-container {
     display: flex;
+    align-items: flex-start;
+    gap: 5px;
 
 }
 
